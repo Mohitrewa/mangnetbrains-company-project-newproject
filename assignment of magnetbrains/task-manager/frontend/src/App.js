@@ -8,6 +8,7 @@ import TaskList from './components/TaskList';
 import TaskDetails from './components/TaskDetails';
 import TaskForm from './components/TaskForm';
 import PriorityList from './components/PriorityList';
+import TaskCreate from './components/TaskCreate';
 import './App.css';
 
 const App = () => {
